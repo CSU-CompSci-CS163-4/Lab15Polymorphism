@@ -1,7 +1,7 @@
 # Lab 15 - Recursion
 This lab will focus upon implementing some recursive methods. You have previously learned about recursion from past lectures and this lab will help you put some of that knowledge to use!
 
-For ease of access, here is the [javadoc]().
+For ease of access, here is the [javadoc](https://www.cs.colostate.edu/~cs163/javadoc/lab15/).
 
 ## Pre-Step: Walkthrough & Compilation
 This lab is focused upon your implementation of recursive methods, but it may help you to walkthrough the program, notably the `methodToCall()` method because it contains a `switch` statement that y'all have recently learned about.
