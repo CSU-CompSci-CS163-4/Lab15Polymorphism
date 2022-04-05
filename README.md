@@ -11,12 +11,21 @@ Once you feel confident on the workings of this program, hop over to your self-e
 ## Step 1: Self-Explanation
 There are three self-explanations to be completed, one for each of your recursive implementations. You will need to read the javadocs before writing out your ideas.
 
+For these explanations and implementations **do not** use loops, you must use recursive calls to solve these problems.
+
 For these explanations focus upon detailing your base and recursive cases that you will need for recursion in each method.
 
 ## Step 2: Implementation
 And now for the best part, implementing your methods! Recursion can be a difficult concept, so I would highly recommend, creating a tree or doodle to follow what your recursive methods are doing at each step of their execution. This can be key to understanding recursion.
 
-If you would like to go beyond the testing that can be accomplished with just `RecursionMain`, you can easily create your own `main` method in another class and creating corresponding tests!
+If you would like to go beyond the testing that can be accomplished with just `RecursionMain`, you can easily create your own `main` method in another class and create corresponding tests!
 
 ## Step 3: Turning In
 For turning in this lab, make sure to have your TA check off your self-explanation and then turn in `RecursionHelper.java` to zyBooks.
+
+## Additional Information - Recursion
+When creating a recursive method you must focus your attention onto the base case and the recursive case.
+<ul>
+  <li>Base case: This is the case or conditional that stops the recursive calls, commonly use when a number reaches 0, or a String's characters have been exhausted.</li>  
+  <li>Recursive case: This the case where you are reducing a problem down into a subproblem, such as removing a character from a String, or subtracting a value from a passed parameter.</li>
+</ul>
