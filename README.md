@@ -21,7 +21,7 @@ And now for the best part, implementing your methods! Recursion can be a difficu
 If you would like to go beyond the testing that can be accomplished with just `RecursionMain`, you can easily create your own `main` method in another class and create corresponding tests!
 
 ## Step 3: Turning In
-For turning in this lab, make sure to have your TA check off your self-explanation and then turn in `RecursionHelper.java` to zyBooks.
+For turning in this lab, make sure to have your TA check off your self-explanation and then turn in `RecursionHelper.java` to zyBooks. Online students will not have the option to submit their self-explanations but it is still highly recommended that it is completed to help better understand the code.
 
 ## Additional Information - Recursion
 When creating a recursive method you must focus your attention onto the base case and the recursive case.
